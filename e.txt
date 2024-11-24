@@ -1,0 +1,4 @@
+id: 4
+username: & c:/Users/Sabina/Downloads/Demo1/venv/Scripts/python.exe c:/Users/Sabina/Downloads/Demo1/main3.py
+vehicle_type: w
+starting_time: 2024-11-22 12:30:29.945942

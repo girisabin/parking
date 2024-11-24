@@ -1,0 +1,14 @@
+# IS operator
+
+# x = None
+# y = None
+
+# print( x is None)
+# print( y  is None)
+
+# z= 5
+# print(z is None)
+
+
+
+
